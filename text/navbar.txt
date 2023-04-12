@@ -1,0 +1,14 @@
+nav,wrapper,
+
+Navigaation
+descent select 
+	-->Syntex <div ul>
+	-->Selecting all ul in the div or given id 
+
+descendant selector (space)
+child selector (>)
+adjacent sibling selector (+)
+general sibling selector (~)
+
+
+==>div is a block element

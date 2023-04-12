@@ -1,0 +1,10 @@
+JAVASCRIPT
+-->Scripting Languagee
+	-->Client Side
+	-->Server Side
+
+1)DB SERVER (database server)
+
+2)DBMS SERVER(database management server)
+
+DIALOG BOX (alert,confirmation,prompt)

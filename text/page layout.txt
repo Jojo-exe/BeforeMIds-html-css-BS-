@@ -1,0 +1,11 @@
+Div
+-->iiquid display(that varies "%")
+-->fixed display(that does not varies i.e in px)
+1 row = 12 col 
+
+box-model
+-->outline 
+-->padding
+-->margin
+-->border
+---->Display property

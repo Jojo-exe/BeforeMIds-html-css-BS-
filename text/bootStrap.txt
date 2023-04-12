@@ -1,0 +1,12 @@
+BootStrap Consist of
+-->container 
+-->row col
+-->Mobile FrameWork
+
+
+BootStrap Classes
+-->col-lg-8(make 8 col)
+
+Envitomrnt
+-->large envirmoent( greater then 1200px)
+

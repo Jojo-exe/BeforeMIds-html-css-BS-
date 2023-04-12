@@ -1,0 +1,26 @@
+font-family
+	family
+	size
+	weight(to make bold,50 norlm)
+	font-style
+	text-transform
+vertical-align
+text-indent
+text-shadow
+
+
+pseduo classes(visted,
+{
+css property
+}
+
+visited
+active 
+focus
+	
+p:pesud-class(mouse-hover) 
+
+	
+		
+	
+	
