@@ -1,0 +1,32 @@
+body{
+    background-color: blanchedalmond;
+    margin-top:25px;
+     margin-left: 20px;
+      margin-right: 20px;
+       margin-bottom: 25px;
+       /* margin: 25px; */
+       border: 2px burlywood solid;
+     
+}
+
+h1{
+    text-align: center;
+     text-decoration: underline wheat; 
+     color: rgb(255, 255, 255);
+      font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+       background-color:rgb(0, 0, 0);
+       
+}
+
+h2
+{
+    text-decoration:underline; 
+    background-color: burlywood;    
+}
+
+hr{
+    border-color:black ;
+    
+}
+
+
